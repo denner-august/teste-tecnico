@@ -7,9 +7,6 @@ console.clear()
 
 function palindromo(string){
     const res = string.split("").reverse().join("")
-
-   
-
     if(res === string){
         return console.log(true);
     }
