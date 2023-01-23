@@ -24,10 +24,10 @@ function fatorial(number) {
         
         let n1 = fato * index
         
-        fato = n1   
+        fato = n1
     }
 
     console.log(fato);   
 };
 
-fatorial(3)
+fatorial(5)
